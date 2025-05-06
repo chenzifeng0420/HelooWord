@@ -42,9 +42,17 @@
       "version": 1,
       "remark": "官方采集扩展，在环境变量配置 采集解析地址。如采集服务不可用，请自行寻找更换采集地址。",
       "env": "采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
-      "webSite": "https://zy.xiaomaomi.cc/api.php/provide/vod/",
+      "webSite": "https://zy.hls.one/api.php/provide/vod",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/cms2.js",
       "type": 101
+    },
+    {
+        "name": "🐰[测]清影|看备注！！！",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/revohd.js",
+        "webSite": "https://revohd.com",
+        "remark": "软件v1.6.57|网盘拓展v19以上可用，加载不出来一般是网站空资源，没有获取到有效资源链接",
+        "version": "1",
+        "type": 101
     },
     {
       "name": "🤠多多影音",
