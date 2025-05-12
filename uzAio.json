@@ -147,7 +147,6 @@
     "name": "🐹奥秘影视",
     "version": 3,
     "webSite": "https://vip.omii.top",
-    "order": "B",
     "api": "vod/js/aomipan.js",
     "type": 101
     },
