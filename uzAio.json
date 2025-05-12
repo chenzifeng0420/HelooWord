@@ -144,6 +144,14 @@
       "type": 101
     },
     {
+    "name": "🐹奥秘影视",
+    "version": 3,
+    "webSite": "https://vip.omii.top",
+    "order": "B",
+    "api": "vod/js/aomipan.js",
+    "type": 101
+    },
+    {
       "name": "⚡️闪电优汐",
       "version": 1,
       "webSite": "http://1.95.79.193/",
