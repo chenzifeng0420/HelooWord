@@ -43,14 +43,14 @@
       "api": "https://11405.kstore.space/uz/wp/采集.js",
       "type": 101
     },
-    {
-      "name": "🐰[测]清影|看备注！！！",
-      "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/main/vod/js/revohd.js",
-      "webSite": "https://revohd.com",
-      "remark": "软件v1.6.57|网盘拓展v19以上可用，加载不出来一般是网站空资源，没有获取到有效资源链接",
-      "version": 1,
-      "type": 101
-    },
+  {
+    "name": "🐰[测]清影|",
+    "version": 1,
+    "webSite": "https://revohd.com",
+    "order": "B",
+    "api": "vod/js/qingying.js",
+    "type": 101
+  },
     {
       "name": "✈️[盘]TG搜",
       "version": 1,
