@@ -47,7 +47,6 @@
     "name": "🐰[测]清影|",
     "version": 1,
     "webSite": "https://revohd.com",
-    "order": "B",
     "api": "vod/js/qingying.js",
     "type": 101
   },
