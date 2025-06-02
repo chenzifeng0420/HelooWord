@@ -30,6 +30,12 @@
     "api": "danMu/js/danMu2.txt",
     "type": 400
   },
+  {
+        "name": "弹幕扩展",
+        "version": 1,
+        "api": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/UZ/danMu/js/danMu.js",
+        "type": 400
+  },
   ],
   "vod": [
     {
