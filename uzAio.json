@@ -115,6 +115,15 @@
       "type": 101
     },
     {
+        "name": "🍔奥秘影视",
+        "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/aomipan.js",
+        "instance": "aomipan20241030",
+        "webSite": "https://vip.omii.top/",
+        "remark": "奥秘网盘",
+        "version": "2",
+        "type": 100
+    },
+    {
       "name": "🤖大玩 | 4K",
       "api": "http://38.165.20.168/uzjs/dawan.js",
       "webSite": "http://149.88.87.18:6688",
