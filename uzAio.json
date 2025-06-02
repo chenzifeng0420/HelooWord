@@ -21,12 +21,6 @@
   "danMu": [
     {
       "name": "弹幕扩展",
-      "version": 1,
-      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/danMu/js/danMu.js",
-      "type": 400
-    },
-    {
-      "name": "弹幕扩展",
       "version": 10,
       "remark": "搜不到就算了，不要那么执着",
       "codeID": "HyplMQ00pLZipW1jy1e9qTsjZbznKjq2",
