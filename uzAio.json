@@ -1,14 +1,4 @@
 {
-  "recommend": [
- {
-    "name": "豆瓣推荐",
-    "version": 4,
-    "remark": "iOS14 以上版本可用",
-    "codeID": "hZC5h9Id3nP6mwaolSXqNemBLQCMFqhw",
-    "api": "recommend/js/douban.txt",
-    "type": 200
-  },
-  ],
   "panTools": [
    {
     "name": "夸克|123|189|UC|解析 网盘解析工具",
